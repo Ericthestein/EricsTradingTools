@@ -10,7 +10,7 @@ Note: Ensure [python](https://www.python.org/downloads/) is installed before pro
 
 In a console/terminal window, enter:
 
-`https://github.com/Ericthestein/EricsTradingTools.git`
+`git clone https://github.com/Ericthestein/EricsTradingTools.git`
 
 `cd EricsTradingTools`
 
