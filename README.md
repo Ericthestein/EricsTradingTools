@@ -5,7 +5,7 @@ The following tools are currently available:
 
 Please use these tools at your own risk and do not rely solely on them for your own financial decisions. We do not guarantee any financial outcomes.
 
-# Installation
+## Installation
 Note: Ensure [python](https://www.python.org/downloads/) is installed before proceeding.
 
 In a console/terminal window, enter:
@@ -16,10 +16,10 @@ In a console/terminal window, enter:
 
 `pip install`
 
-# Usage
+## Usage
 To use these tools, in a console/terminal window, navigate to your EricsTradingTools installation folder and enter:
 
 `python Main.py`
 
-# License
+## License
 See [LICENSE](LICENSE)
