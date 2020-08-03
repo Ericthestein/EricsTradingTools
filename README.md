@@ -20,3 +20,6 @@ In a console/terminal window, enter:
 To use these tools, in a console/terminal window, navigate to your EricsTradingTools installation folder and enter:
 
 `python Main.py`
+
+# License
+See [LICENSE](LICENSE)
